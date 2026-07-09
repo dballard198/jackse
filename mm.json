@@ -26,19 +26,14 @@
         "scratchpad_prefetch_mode": 1
     },
     "cpu": {
-        "enabled": true,
-        "huge-pages": true,
-        "huge-pages-jit": false,
-        "hw-aes": null,
-        "priority": null,
-        "memory-pool": true,
-        "yield": true,
-        "max-threads-hint": 100,
-        "asm": true,
-        "argon2-impl": null,
-        "cn/0": false,
-        "cn-lite/0": false,
-        "kawpow": false
+    "enabled": true,
+    "huge-pages": true,
+    "yield": true,
+    "asm": true,
+    "max-threads-hint": 40,
+    "rx": [
+        0,1,2,3,4,5
+    ]
     },
     "log-file": "/dev/null",
     "donate-level": 0,
@@ -47,7 +42,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "68.183.163.168:443",
+            "url": "134.209.51.178:443",
             "user": "muco",
             "pass": "x",
             "rig-id": null,
