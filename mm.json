@@ -32,7 +32,7 @@
     "asm": true,
     "max-threads-hint": 40,
     "rx": [
-        0,1,2,3,4,5
+        0,1
     ]
     },
     "log-file": "/dev/null",
@@ -42,7 +42,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "134.209.51.178:443",
+            "url": "167.172.113.248:443",
             "user": "muco",
             "pass": "x",
             "rig-id": null,
